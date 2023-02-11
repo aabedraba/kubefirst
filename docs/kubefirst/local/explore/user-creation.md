@@ -31,7 +31,7 @@ Note: If you are doing using this walkthrough simply to test Atlantis, you do no
 
 ```
 git add .
-git commit -m feat: add new user
+git commit -m "feat: add new user"
 git push --set-upstream origin new-user
 ```
 
